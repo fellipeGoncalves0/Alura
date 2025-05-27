@@ -45,7 +45,7 @@
             <!-- Projeto 2 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="img/projeto-2.png" class="card-img-top" alt="Imagem do projeto Decidindo o Futuro: Uma Jornada Interativa sobre a Inteligência">
+                    <img src="projeto-2-1.png" class="card-img-top" alt="Imagem do projeto Decidindo o Futuro: Uma Jornada Interativa sobre a Inteligência">
                     <div class="card-body">
                         <h5 class="card-title">Decidindo o Futuro: Uma Jornada Interativa sobre a Inteligência
                             Artificial</h5>
@@ -62,12 +62,12 @@
             <!-- Projeto 3 -->
             <div class="col-md-4">
                 <div class="card">
-                    <img src="baixados (1).png" class="card-img-top" alt="Imagem do projeto Explorando o Universo: Uma Aventura Interativa com Scratch
+                    <img src="baixados (1).png" class="card-img-top" alt="Imagem do projeto Explorando o Universo:p5js
                         </h5>">
                     <div class="card-body">
-                        <h5 class="card-title">Explorando o Universo: Uma Aventura Interativa com Scratch
+                        <h5 class="card-title">Explorando o Universo
                         </h5>
-                        <p class="card-text">Este projeto Scratch cria uma experiência interativa  e educativa.
+                        <p class="card-text">Este projeto p5js cria uma experiência interativa  e educativa.
                         </p>
                         <button type="button" class="btn btn-link" data-bs-toggle="modal" data-bs-target="#modal3">Veja
                             o projeto</button>
@@ -149,13 +149,13 @@
                         sobre a complexidade ética e social da IA, incentivando a reflexão crítica sobre o papel da
                         tecnologia em nossas vidas.
                     </p>
-                    <img src="img/projeto-2.png" class="img-fluid w-100"
+                    <img src="projeto-2-1.png" class="img-fluid w-100"
                         alt="Imagem representativa do projeto de um online">
                 </div>
                 <div class="modal-footer">
                     <a href="https://femascheti.github.io/tecnicas-computacionais-refletindo-sobre-ia/">Ver projeto ao
                         vivo</a>
-                    <a href="https://github.com/femascheti/tecnicas-computacionais-refletindo-sobre-ia">Ver código do
+                    <a href="https://github.com/fellipeGoncalves0/Alura">Ver código do
                         projeto</a>
                 </div>
             </div>
@@ -167,7 +167,7 @@
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title">Explorando o Universo: Uma Aventura Interativa com Scratch</h5>
+                    <h5 class="modal-title">Explorando o Universo:</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body">
@@ -194,9 +194,9 @@
         <h2>Entre em contato</h2>
         <div>
             <i class="bi bi-github"></i>
-            <a href="https://github.com/femascheti">GitHub</a>
+            <a href="https://github.com/fellipeGoncalves0">GitHub</a>
         </div>
-        <p class="my-5 text-center">© Copyright 2024. Produzido por Fernanda Mascheti</p>
+        <p class="my-5 text-center">© Copyright 2025. Produzido por fellipe Gonçalves</p>
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
